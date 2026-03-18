@@ -16,3 +16,20 @@ Curadoria de Fontes:
   Pergunta 2: Crie imagens de exemplos de exercícios e dietas simples para uma vida saudável.
   Pergunta 3: Gostaria de criar um infográfico dos melhores  alimentos com proporção diária dos tipos como proteínas carboidratos fibras vitaminas e minerais.
   Pergunta 4: Resuma todo o conteúdo desta conversa com os pontos mais importantes e índice.
+
+Miniguia de Estudo (Entrega Final):
+
+  Resumo: Esta conversa abordou a importância crítica da transição de um estilo de vida sedentário para um ativo, detalhando os mecanismos biológicos, as diretrizes nutricionais e as estratégias práticas para a longevidade.
+  
+  Glossário: 
+     1- O Sedentarismo e seus Riscos Globais
+     2- O Paradoxo do "Ativo, mas Sedentário"
+     3- NEAT: O Poder do Movimento Espontâneo
+     4- A Pirâmide da Atividade Física
+     5- Benefícios Cerebrais e Celulares
+     6- Alimentação Saudável e o Guia Brasileiro
+     7- Estratégias Práticas e Recomendações da OMS
+
+   Prompts: "Crie uma explicação simples com imagens e infográficos"
+            "Crie exemplos" "Resuma"
+    Link do NotebookLM: https://notebooklm.google.com/notebook/577de640-f7e4-4e21-9727-d8e429d809ab
